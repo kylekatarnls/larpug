@@ -94,7 +94,7 @@ Which will render something like
       <div class="name">Kevin</div>
     </div>
   </body>
-</html>';
+</html>
 ```
 
 
